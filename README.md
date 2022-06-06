@@ -1,4 +1,4 @@
-# FormularioBallerini
+# FormulárioBallerini
 Formulário em HTML e CSS
 
 Formulário construído a partir da vídeo-aula no Youtube do canal Rafael Ballerini com algumas modificações a fins de estudo.
